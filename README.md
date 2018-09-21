@@ -1,2 +1,3 @@
-# jhinukk.github.io
-This is my github user page
+Welcome to my user page.
+
+I am a PHP developer based out Kolkata.
